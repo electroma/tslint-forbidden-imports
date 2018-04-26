@@ -19,9 +19,9 @@ It may be implemented by adding the following rule configuration:
 ```json
 {
   "forbidden-imports": [true, {
-          'client/**': ['server/**'],
-          'server/**': ['client/**'],
-          'common/**': ['client/**', 'server/**']
+          "client/**": ["server/**"],
+          "server/**": ["client/**"],
+          "common/**": ["client/**", "server/**"]
   }]
 }
 ```
