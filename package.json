@@ -1,8 +1,13 @@
 {
   "name": "tslint-forbidden-imports",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TSLint plugin to limit certain types of imports (configured using GLOB patterns)",
-  "keywords": ["tslint", "fitness function", "dependency", "control"],
+  "keywords": [
+    "tslint",
+    "fitness function",
+    "dependency",
+    "control"
+  ],
   "main": "tslint.json",
   "repository": "https://github.com/electroma/tslint-forbidden-imports.git",
   "author": "Roman Safronov",
