@@ -1,3 +1,6 @@
+[![npm version](https://badge.fury.io/js/tslint-forbidden-imports.svg)](https://badge.fury.io/js/tslint-microsoft-contrib)
+[![Build Status](https://travis-ci.org/electroma/tslint-forbidden-imports.svg?branch=master)](https://travis-ci.org/electroma/tslint-forbidden-imports)
+
 ## tslint-forbidden-imports
 
 This rule is useful in larger code bases to control dependencies between project modules.
