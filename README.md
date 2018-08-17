@@ -44,7 +44,7 @@ It may be implemented by adding the following rule configuration:
 
 ## Configuration
 
-1. Add `node_modules/tslint-forbidden-imports` to `rulesDirectory` parameter of your `tslint.json`.
+1. Add `node_modules/tslint-forbidden-imports/rules` to `rulesDirectory` parameter of your `tslint.json`.
 2. Enable rule `forbidden-imports` and pass mapping `"file pattern"` -> `["fordidden import patterns"...]` 
 
 The pattern syntax may use any features supported by [micromatch](https://github.com/micromatch/micromatch#matching-features).

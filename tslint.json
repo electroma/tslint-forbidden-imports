@@ -114,7 +114,7 @@
     ]
   },
   "rulesDirectory": [
-    "dist",
+    "rules",
     "node_modules/tslint-microsoft-contrib"
   ]
 }
