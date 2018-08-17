@@ -1,6 +1,6 @@
 {
   "name": "tslint-forbidden-imports",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "TSLint plugin to limit certain types of imports (configured using GLOB patterns)",
   "keywords": [
     "tslint",

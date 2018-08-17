@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/tslint-forbidden-imports.svg)](https://badge.fury.io/js/tslint-microsoft-contrib)
+[![npm version](https://badge.fury.io/js/tslint-forbidden-imports.svg)](https://badge.fury.io/js/tslint-forbidden-imports)
 [![Build Status](https://travis-ci.org/electroma/tslint-forbidden-imports.svg?branch=master)](https://travis-ci.org/electroma/tslint-forbidden-imports)
 
 ## tslint-forbidden-imports
