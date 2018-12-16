@@ -6,6 +6,6 @@ node_js:
 script:
   - yarn build
   - yarn lint
-  - yarn test
+  - yarn coveralls
 
 sudo: false
