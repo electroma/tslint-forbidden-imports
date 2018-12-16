@@ -1,6 +1,6 @@
 module.exports = {
     transform: {
-        '.(ts|tsx|js)': `${__dirname}/node_modules/ts-jest/preprocessor.js`
+        '.(ts|tsx|js)': 'ts-jest'
     },
     testMatch: [
         `${__dirname}/(test)/**/?(*.)(test).ts`,
@@ -22,6 +22,5 @@ module.exports = {
             lines: 70,
             statements: 80
         }
-    },
-    testURL: "http://localhost/"
+    }
 };
