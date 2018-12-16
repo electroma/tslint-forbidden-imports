@@ -1,5 +1,6 @@
 [![npm version](https://badge.fury.io/js/tslint-forbidden-imports.svg)](https://badge.fury.io/js/tslint-forbidden-imports)
 [![Build Status](https://travis-ci.org/electroma/tslint-forbidden-imports.svg?branch=master)](https://travis-ci.org/electroma/tslint-forbidden-imports)
+[![Coverage Status](https://coveralls.io/repos/github/electroma/tslint-forbidden-imports/badge.svg?branch=coveralls)](https://coveralls.io/github/electroma/tslint-forbidden-imports?branch=coveralls)
 
 ## tslint-forbidden-imports
 
